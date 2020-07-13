@@ -298,4 +298,6 @@
     <bool name="support_camera_beauty_menu_in_back_portrait_mode">true</bool>
     <bool name="support_camera_adv_beauty_front_bokeh">false</bool>
 
+    <!-- whether camera support Google lens entry -->
+    <bool name="camera_support_google_lens">true</bool>
 </features>
